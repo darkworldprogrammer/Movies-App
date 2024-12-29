@@ -1,2 +1,2 @@
 # view
-devil-movies.vercel.app
+https://devil-movies.vercel.app/
